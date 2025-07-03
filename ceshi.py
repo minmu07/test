@@ -7,4 +7,4 @@ os.chdir(os.path.dirname(os.path.abspath(__file__)))  # 切换到代码文件所
 # os.path.dirname 提取目录部分。
 print("当前工作目录:", os.getcwd())  # 输出程序运行时的工作目录
 
-# 1111
+# 22222
