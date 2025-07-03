@@ -6,3 +6,5 @@ os.chdir(os.path.dirname(os.path.abspath(__file__)))  # 切换到代码文件所
 # os.path.abspath 转为绝对路径（避免相对路径问题）。
 # os.path.dirname 提取目录部分。
 print("当前工作目录:", os.getcwd())  # 输出程序运行时的工作目录
+
+# 1111
